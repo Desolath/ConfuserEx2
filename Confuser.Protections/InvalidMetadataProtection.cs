@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -13,7 +13,7 @@ namespace Confuser.Protections {
 		public const string _FullId = "Ki.InvalidMD";
 
 		public override string Name {
-			get { return "Invalid Metadata Protection"; }
+			get { return "Invalid Metadata Protections"; }
 		}
 
 		public override string Description {
